@@ -9,6 +9,7 @@
   "author": "NFThing",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^4.6.0"
+    "mongodb": "^4.17.2",
+    "punycode": "^2.3.1"
   }
 }
